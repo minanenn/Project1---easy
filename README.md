@@ -21,5 +21,14 @@ In diesem Projekt habe ich die Challenge "Base Apparel" umgesetzt.
 3. Anpassung der Seite für Responsive.
 4. Refactoring.
 
+## Design Entscheidung 
+- Mobile First Ansatz: In diesem Projekt habe ich einen mobile first Ansatz, da dies ein Best Practice im Frontend Development ist. Dazu habe ich Media Queries genutz. 
+- In diesem Projekt unterstütze ich alle gängigen Browser, auf Support für IE etc. wurde verzichtet. 
+- Getestet wurde die Website in Chrome und Firefox.
+
+
+## What to improve
+
+
 **Author**
 Mina Nennemann

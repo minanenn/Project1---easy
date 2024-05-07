@@ -16,10 +16,10 @@ In diesem Projekt habe ich die Challenge "Base Apparel" umgesetzt.
 ## Vorgehensweise
 
 
-1. Zuerst habe ich ....
-2. .....
-
-
+1. Analyse des Mockups und der Design Vorhaben.
+2. Umsetzung der ersten Version mit HTML und CSS.
+3. Anpassung der Seite für Responsive.
+4. Refactoring.
 
 **Author**
 Mina Nennemann
